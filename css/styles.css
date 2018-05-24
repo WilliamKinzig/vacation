@@ -2,4 +2,16 @@ body {
   background-image: url("../img/bg.jpg");
   background-repeat: repeat-y;
   background-size: cover;
+  color: #449E9B;
+}
+p.package {
+  font-size: 20px;
+  font-weight: bold;
+  border: 5px solid #449E9B;
+  padding: 3px;
+}
+
+ul.package {
+  border: 5px solid #449E9B;
+  padding: 3px;
 }
